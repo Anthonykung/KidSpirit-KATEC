@@ -1,0 +1,1 @@
+# KidSpirit KATEC Starter Template
